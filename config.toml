@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
   [params.hero]
     name = "Dr. Youstina badr"
     tagline = "internship Dentist"
-    graduation = "Graduated 2024 - Faculty of Dentistry"
+    graduation = "Graduated 2024 - Faculty of Dentistry - ERU"
     profile_image = "https://github.com/user-attachments/assets/7df38bd8-b6d7-42e2-9535-e21f41043a97"
     profile_image_alt = "Profile photo of Youstina badr mikhail yassa"
     
@@ -21,9 +21,9 @@ defaultContentLanguage = "en"
     doctor_name_en = "Youstina badr mikhail yassa"
     doctor_name_ar = "يوستينا بدر ميخائيل يسى"
     site_name = "Youstina badr"
-    og_image = "https://github.com/user-attachments/assets/91a80bc5-b0ea-415a-9f29-fca6d3dfd0ba"
-    favicon_image = "https://github.com/user-attachments/assets/89fda6bd-3a72-4d9e-bc85-13ac84414951"
-    twitter_handle = "https://github.com/user-attachments/assets/97ba84f2-8190-4ea6-b396-c6beb0bb3572"
+    og_image = ""
+    favicon_image = ""
+    twitter_handle = ""
     keywords = [
       "dentist",
       "dental clinic",
@@ -31,8 +31,8 @@ defaultContentLanguage = "en"
       "restorative dentistry",
       "Youstina badr mikhail yassa",
       "zagazig",
-      "DENTIST IN ZAGAZIG",
-      "DENTAL CLINIC IN ZAGAZIG",
+      "DENTIST IN ",
+      "DENTAL CLINIC IN",
       "DENTAL CLINIC"
     ]
     keywords_ar = [
@@ -104,12 +104,10 @@ defaultContentLanguage = "en"
   # Skills Section
   [params.skills]
     clinical = [
-      "gp skills",
-      "cosmetics professional"
+      "gp skills"
     ]
     
     digital = [
-      "cadcam",
       "powerpoint"
     ]
     
@@ -150,7 +148,7 @@ defaultContentLanguage = "en"
   [[params.clinical_cases]]
     enabled = true
     category = "operative"
-    category_ar = "operative"
+    category_ar = "حشو عادى وتجميلى"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/9d561433-e748-4798-97d8-31413cee20c1"
@@ -169,7 +167,7 @@ defaultContentLanguage = "en"
   [[params.clinical_cases]]
     enabled = true
     category = "prosthesis"
-    category_ar = "prosthesis"
+    category_ar = "تركيبات ثابتة ومتحركه"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/a68dd235-f140-4766-b693-431dbfbbc8ce"
@@ -195,7 +193,7 @@ defaultContentLanguage = "en"
   [[params.clinical_cases]]
     enabled = true
     category = "Endo"
-    category_ar = "Endo"
+    category_ar = "حشو عصب"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/5800effa-93c6-43c4-9f96-efc85482b533"
