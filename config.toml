@@ -1,0 +1,330 @@
+baseURL = "https://portfoliohubs.github.io/dryoustinabadr/"
+languageCode = "en-us"
+title = "Dr. Youstina badr"
+defaultContentLanguage = "en"
+
+[params]
+  # Hero Section
+  [params.hero]
+    name = "Youstina badr mikhail yassa"
+    tagline = "internship Dentist"
+    graduation = "Graduated 2024 - Faculty of Dentistry"
+    profile_image = "https://github.com/user-attachments/assets/7df38bd8-b6d7-42e2-9535-e21f41043a97"
+    profile_image_alt = "Profile photo of Youstina badr mikhail yassa"
+    
+    [params.hero.current_position]
+      role = "internship Dentist"
+      clinic = "مركز الحى الاول العبور"
+
+  [params.seo]
+    description = "Professional dental portfolio"
+    doctor_name_en = "Youstina badr mikhail yassa"
+    doctor_name_ar = "يوستينا بدر ميخائيل يسى"
+    site_name = "Youstina badr mikhail yassa"
+    og_image = "https://github.com/user-attachments/assets/91a80bc5-b0ea-415a-9f29-fca6d3dfd0ba"
+    favicon_image = "https://github.com/user-attachments/assets/89fda6bd-3a72-4d9e-bc85-13ac84414951"
+    twitter_handle = "https://github.com/user-attachments/assets/97ba84f2-8190-4ea6-b396-c6beb0bb3572"
+    keywords = [
+      "dentist",
+      "dental clinic",
+      "cosmetic dentistry",
+      "restorative dentistry",
+      "Youstina badr mikhail yassa",
+      "zagazig",
+      "DENTIST IN ZAGAZIG",
+      "DENTAL CLINIC IN ZAGAZIG",
+      "DENTAL CLINIC"
+    ]
+    keywords_ar = [
+      "طبيب أسنان",
+      "عيادة أسنان",
+      "تجميل الأسنان",
+      "ترميم الأسنان",
+      "يوستينا بدر ميخائيل يسى",
+      "طبيب بالقاهرة",
+      "عيادة بالقاهرة",
+      "طبيبة يوستينا بدر",
+      "عيادة يوستينا بدر",
+      "عيادة اسنان ",
+      "يوستينا بدر اسنان"
+    ]
+
+  [params.integrations]
+    google_search_console_verification = "6VtKNI5qnSYsfjCTBMfnm9PuZjjR7aYh6crmofpS8yw"
+    google_analytics_measurement_id = ""
+
+  [params.ui]
+    [params.ui.nav]
+      profile = "Profile"
+      skills = "Skills"
+      education = "Education"
+      clinical_cases = "Clinical Cases"
+      cases_short = "Cases"
+      blog = "Blog"
+      contact = "Contact"
+
+    [params.ui.skills]
+      title = "Professional Skills"
+      clinical_title = "Clinical Skills"
+      digital_title = "Digital Skills"
+      soft_title = "Soft Skills"
+
+    [params.ui.education]
+      title = "Education & Timeline"
+      graduated_label = "Graduated"
+      career_timeline_title = "Career Timeline"
+      courses_title = "Courses & Certifications"
+
+    [params.ui.cases]
+      title = "Clinical Cases"
+      subtitle = "Clinical Cases Gallery"
+
+    [params.ui.blog]
+      title = "Latest Articles"
+      subtitle = "Insights and Knowledge"
+      empty_text = "No blog posts yet"
+
+    [params.ui.contact]
+      title = "Get In Touch"
+      subtitle = "Let's connect and collaborate"
+      follow_me_title = "Follow Me"
+
+    [params.ui.labels]
+      now_working_as = "Now working as"
+      at = "at"
+      phone = "Phone"
+      whatsapp = "WhatsApp"
+      email = "Email"
+      location = "Location"
+      get_directions = "Get Directions"
+      masters_degree = "Master's Degree"
+      phd_degree = "PhD Degree"
+      rights_reserved = "All rights reserved"
+
+  # Skills Section
+  [params.skills]
+    clinical = [
+      "gp skills",
+      "cosmetics professional"
+    ]
+    
+    digital = [
+      "cadcam",
+      "powerpoint"
+    ]
+    
+    soft = [
+      "Excellent patient communication",
+      "Patient-centered approach",
+      "Good interpersonal skills"
+    ]
+
+  # Education Section
+  [params.education]
+    university = "Egyptian Russian university"
+    graduation_year = "2024"
+    
+    [params.education.master]
+      obtained = false
+      title = "Master in Oral Medicine"
+      year = "2024"
+    
+    [params.education.phd]
+      obtained = false
+      title = "PhD in Dental Sciences"
+      year = "2028"
+    
+    [[params.education.timeline]]
+      year = "2020"
+      event = "start faculty of dentistry 2020"
+    
+    [[params.education.timeline]]
+      year = "2024"
+      event = "graduated 2024"
+    
+    # Certificates (images will be uploaded via GitHub issues)
+    # [[params.education.certificates]]
+    #   title = "Advanced Endodontics Course"
+    #   image = "cert1.jpg"
+# Clinical Cases Section
+  [[params.clinical_cases]]
+    enabled = true
+    category = "operative"
+    category_ar = "operative"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/9d561433-e748-4798-97d8-31413cee20c1"
+      alt = "Class I composite restoration – lower 6"
+      description = "Class I composite restoration – lower 6"
+      alt_ar = "Class I composite restoration – lower 6"
+      description_ar = "Class I composite restoration – lower 6"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0fc21a74-b9dc-4a36-bbf0-4181966ccb12"
+      alt = "Direct composite build-up for peg-shaped lateral incisor"
+      description = "Direct composite build-up for peg-shaped lateral incisor"
+      alt_ar = "Direct composite build-up for peg-shaped lateral incisor"
+      description_ar = "Direct composite build-up for peg-shaped lateral incisor"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "prosthesis"
+    category_ar = "prosthesis"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/a68dd235-f140-4766-b693-431dbfbbc8ce"
+      alt = "Fixed bridge replacing missing lower 6"
+      description = "Fixed bridge replacing missing lower 6"
+      alt_ar = "Fixed bridge replacing missing lower 6"
+      description_ar = "Fixed bridge replacing missing lower 6"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/dc58ac7f-fcf9-4ae2-bf75-91174c7f1310"
+      alt = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
+      description = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
+      alt_ar = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
+      description_ar = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0777d2ad-9be3-4a6b-95bd-0eb7ea991252"
+      alt = "PFM crown – lower 5"
+      description = "PFM crown – lower 5"
+      alt_ar = "PFM crown – lower 5"
+      description_ar = "PFM crown – lower 5"
+
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Endo"
+    category_ar = "Endo"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/5800effa-93c6-43c4-9f96-efc85482b533"
+      alt = "Endodontic case 1"
+      description = "Endodontic treatment"
+      alt_ar = "حالة عصبية 1"
+      description_ar = "علاج عصب"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/5cadfdb2-81b2-44b6-988b-24c568b60cc2"
+      alt = "Endodontic case 2"
+      description = "Endodontic treatment"
+      alt_ar = "حالة عصبية 2"
+      description_ar = "علاج عصب"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/e0143d3e-823c-4b1f-b313-31f5c3c13e3d"
+      alt = "Endodontic case 3"
+      description = "Endodontic treatment"
+      alt_ar = "حالة عصبية 3"
+      description_ar = "علاج عصب"
+      
+  # Contact Section
+  [params.contact]
+    phone = "01280745515"
+    whatsapp = "01280745515"
+    email = ""
+    instagram = ""
+    facebook = ""
+    linkedin = "https://www.linkedin.com/in/youstina-badr-925501290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    
+    [params.contact.location]
+      enabled = true
+      address = "العبور الحى السابع"
+      latitude = "30.585070727964393"
+      longitude = "31.487296675825437"
+
+# Arabic Translations
+[params.ar]
+  [params.ar.hero]
+    name = "يوستينا بدر ميخائيل يسى"
+    tagline = "طبيبة امتياز"
+    graduation = "تخرج 2024 - كلية طب الأسنان"
+    profile_image_alt = "صورة الملف الشخصي ليوستينا بدر ميخائيل يسى"
+    
+    [params.ar.hero.current_position]
+      role = "طبيب امتياز"
+      clinic = "مركز الحى الاول العبور"
+  
+[params.ar.skills]
+    clinical = [
+      "المهارات السريرية",
+      "المهارات التجميلية الاحترافية"
+    ]
+    
+    digital = [
+      "كادكام",
+      "باوربوينت"
+    ]
+    
+    soft = [
+      "تواصل ممتاز مع المرضى",
+      "نهج يركز على المريض",
+      "مهارات شخصية جيدة"
+    ]
+    
+  
+  [params.ar.education]
+    university = "المصرية الروسية"
+    
+    [params.ar.education.master]
+      title = "ماجستير في طب الفم"
+    
+    [params.ar.education.phd]
+      title = "دكتوراه في علوم الأسنان"
+    
+    [[params.ar.education.timeline]]
+      event = "بدء كلية طب الأسنان 2020"
+    
+    [[params.ar.education.timeline]]
+      event = "تخرج 2024"  
+
+  [params.ar.contact.location]
+    address = "العبور الحى السابع"
+
+  [params.ar.ui]
+    [params.ar.ui.nav]
+      profile = "الملف الشخصي"
+      skills = "المهارات"
+      education = "التعليم"
+      clinical_cases = "الحالات السريرية"
+      cases_short = "الحالات"
+      blog = "المدونة"
+      contact = "التواصل"
+
+    [params.ar.ui.skills]
+      title = "المهارات المهنية"
+      clinical_title = "المهارات السريرية"
+      digital_title = "المهارات الرقمية"
+      soft_title = "المهارات الشخصية"
+
+    [params.ar.ui.education]
+      title = "التعليم والخط الزمني"
+      graduated_label = "تخرج"
+      career_timeline_title = "الخط الزمني المهني"
+      courses_title = "الدورات والشهادات"
+
+    [params.ar.ui.cases]
+      title = "الحالات السريرية"
+      subtitle = "معرض الحالات السريرية"
+
+    [params.ar.ui.blog]
+      title = "أحدث المقالات"
+      subtitle = "رؤى ومعرفة"
+      empty_text = "لا توجد مقالات بعد. أضف أول مقال في config.toml"
+
+    [params.ar.ui.contact]
+      title = "تواصل معي"
+      subtitle = "لنتواصل ونتعاون"
+      follow_me_title = "تابعني"
+
+    [params.ar.ui.labels]
+      now_working_as = "أعمل حالياً ك"
+      at = "في"
+      phone = "الهاتف"
+      whatsapp = "واتساب"
+      email = "البريد"
+      location = "الموقع"
+      get_directions = "احصل على الاتجاهات"
+      masters_degree = "درجة الماجستير"
+      phd_degree = "درجة الدكتوراه"
+      rights_reserved = "جميع الحقوق محفوظة"
