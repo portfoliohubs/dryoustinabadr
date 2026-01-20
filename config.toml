@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 [params]
   # Hero Section
   [params.hero]
-    name = "Youstina badr mikhail yassa"
+    name = "Dr. Youstina badr"
     tagline = "internship Dentist"
     graduation = "Graduated 2024 - Faculty of Dentistry"
     profile_image = "https://github.com/user-attachments/assets/7df38bd8-b6d7-42e2-9535-e21f41043a97"
@@ -20,7 +20,7 @@ defaultContentLanguage = "en"
     description = "Professional dental portfolio"
     doctor_name_en = "Youstina badr mikhail yassa"
     doctor_name_ar = "يوستينا بدر ميخائيل يسى"
-    site_name = "Youstina badr mikhail yassa"
+    site_name = "Youstina badr"
     og_image = "https://github.com/user-attachments/assets/91a80bc5-b0ea-415a-9f29-fca6d3dfd0ba"
     favicon_image = "https://github.com/user-attachments/assets/89fda6bd-3a72-4d9e-bc85-13ac84414951"
     twitter_handle = "https://github.com/user-attachments/assets/97ba84f2-8190-4ea6-b396-c6beb0bb3572"
@@ -236,7 +236,7 @@ defaultContentLanguage = "en"
 # Arabic Translations
 [params.ar]
   [params.ar.hero]
-    name = "يوستينا بدر ميخائيل يسى"
+    name = "د. يوستينا بدر"
     tagline = "طبيبة امتياز"
     graduation = "تخرج 2024 - كلية طب الأسنان"
     profile_image_alt = "صورة الملف الشخصي ليوستينا بدر ميخائيل يسى"
