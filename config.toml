@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
     tagline = "internship Dentist"
     graduation = "Graduated 2024 - Faculty of Dentistry - ERU"
     profile_image = "https://github.com/user-attachments/assets/7df38bd8-b6d7-42e2-9535-e21f41043a97"
-    profile_image_alt = "Profile photo of Youstina badr mikhail yassa"
+    profile_image_alt = "Profile photo of Youstina badr"
     
     [params.hero.current_position]
       role = "internship Dentist"
@@ -18,8 +18,8 @@ defaultContentLanguage = "en"
 
   [params.seo]
     description = "Professional dental portfolio"
-    doctor_name_en = "Youstina badr mikhail yassa"
-    doctor_name_ar = "يوستينا بدر ميخائيل يسى"
+    doctor_name_en = "Youstina badr"
+    doctor_name_ar = "يوستينا بدر"
     site_name = "Youstina badr"
     og_image = ""
     favicon_image = ""
@@ -29,7 +29,7 @@ defaultContentLanguage = "en"
       "dental clinic",
       "cosmetic dentistry",
       "restorative dentistry",
-      "Youstina badr mikhail yassa",
+      "Youstina badr",
       "zagazig",
       "DENTIST IN ",
       "DENTAL CLINIC IN",
@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
       "عيادة أسنان",
       "تجميل الأسنان",
       "ترميم الأسنان",
-      "يوستينا بدر ميخائيل يسى",
+      "يوستينا بدر",
       "طبيب بالقاهرة",
       "عيادة بالقاهرة",
       "طبيبة يوستينا بدر",
@@ -155,14 +155,14 @@ defaultContentLanguage = "en"
       alt = "Class I composite restoration – lower 6"
       description = "Class I composite restoration – lower 6"
       alt_ar = "Class I composite restoration – lower 6"
-      description_ar = "Class I composite restoration – lower 6"
+      description_ar = "حشو ليزر لضرس بالفك السفلى"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/0fc21a74-b9dc-4a36-bbf0-4181966ccb12"
       alt = "Direct composite build-up for peg-shaped lateral incisor"
       description = "Direct composite build-up for peg-shaped lateral incisor"
       alt_ar = "Direct composite build-up for peg-shaped lateral incisor"
-      description_ar = "Direct composite build-up for peg-shaped lateral incisor"
+      description_ar = "حشو تجيلى لسنه امامية"
 
   [[params.clinical_cases]]
     enabled = true
@@ -174,21 +174,21 @@ defaultContentLanguage = "en"
       alt = "Fixed bridge replacing missing lower 6"
       description = "Fixed bridge replacing missing lower 6"
       alt_ar = "Fixed bridge replacing missing lower 6"
-      description_ar = "Fixed bridge replacing missing lower 6"
+      description_ar = "تركيبة ثابته لتعويض ضرس بالفك السفلى"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/dc58ac7f-fcf9-4ae2-bf75-91174c7f1310"
       alt = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
       description = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
       alt_ar = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
-      description_ar = "Maxillary RPD replacing missing upper 6 bilaterally and upper 7 unilaterally"
+      description_ar = "تركيبه متحركة لتعويض اسنان مفقودة بالفك العلوى"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/0777d2ad-9be3-4a6b-95bd-0eb7ea991252"
       alt = "PFM crown – lower 5"
       description = "PFM crown – lower 5"
       alt_ar = "PFM crown – lower 5"
-      description_ar = "PFM crown – lower 5"
+      description_ar = "طربوش لضرس بالفك السفلى"
 
   [[params.clinical_cases]]
     enabled = true
@@ -237,7 +237,7 @@ defaultContentLanguage = "en"
     name = "د. يوستينا بدر"
     tagline = "طبيبة امتياز"
     graduation = "تخرج 2024 - كلية طب الأسنان"
-    profile_image_alt = "صورة الملف الشخصي ليوستينا بدر ميخائيل يسى"
+    profile_image_alt = "صورة الملف الشخصي ليوستينا بدر"
     
     [params.ar.hero.current_position]
       role = "طبيب امتياز"
