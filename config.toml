@@ -14,7 +14,7 @@ defaultContentLanguage = "en"
     
     [params.hero.current_position]
       role = "internship Dentist"
-      clinic = "مركز الحى الاول العبور"
+      clinic = "العبور"
 
   [params.seo]
     description = "Professional dental portfolio"
@@ -227,7 +227,7 @@ defaultContentLanguage = "en"
     
     [params.contact.location]
       enabled = true
-      address = "العبور الحى السابع"
+      address = "العبور"
       latitude = "30.585070727964393"
       longitude = "31.487296675825437"
 
@@ -241,7 +241,7 @@ defaultContentLanguage = "en"
     
     [params.ar.hero.current_position]
       role = "طبيب امتياز"
-      clinic = "مركز الحى الاول العبور"
+      clinic = "العبور"
   
 [params.ar.skills]
     clinical = [
@@ -277,7 +277,7 @@ defaultContentLanguage = "en"
       event = "تخرج 2024"  
 
   [params.ar.contact.location]
-    address = "العبور الحى السابع"
+    address = "العبور"
 
   [params.ar.ui]
     [params.ar.ui.nav]
