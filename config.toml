@@ -104,7 +104,7 @@ defaultContentLanguage = "en"
   # Skills Section
   [params.skills]
     clinical = [
-      "gp skills"
+      "GP skills"
     ]
     
     digital = [
