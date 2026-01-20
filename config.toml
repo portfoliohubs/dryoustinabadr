@@ -30,9 +30,11 @@ defaultContentLanguage = "en"
       "cosmetic dentistry",
       "restorative dentistry",
       "Youstina badr",
-      "zagazig",
+      "obour",
       "DENTIST IN ",
-      "DENTAL CLINIC IN",
+      "DENTAL CLINIC IN", 
+      "Dr Youstina Dentist Obour",
+      "Dentist Obour City",
       "DENTAL CLINIC"
     ]
     keywords_ar = [
@@ -46,6 +48,7 @@ defaultContentLanguage = "en"
       "طبيبة يوستينا بدر",
       "عيادة يوستينا بدر",
       "عيادة اسنان ",
+      "دكتورة أسنان الحي الأول العبور", 
       "يوستينا بدر اسنان"
     ]
 
