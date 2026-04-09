@@ -230,7 +230,7 @@ defaultContentLanguage = "en"
     
     [params.contact.location]
       enabled = true
-      address = "العبور"
+      address = "vasilia clinic فى العبور بالقاهرة"
       latitude = "30.222718"
       longitude = "31.472719"
 
