@@ -136,7 +136,7 @@ defaultContentLanguage = "en"
       year = "2028"
     
     [[params.education.timeline]]
-      year = "2020"
+      year = "2019"
       event = "start faculty of dentistry 2020"
     
     [[params.education.timeline]]
@@ -274,13 +274,13 @@ defaultContentLanguage = "en"
       title = "دكتوراه في علوم الأسنان"
     
     [[params.ar.education.timeline]]
-      event = "بدء كلية طب الأسنان 2020"
+      event = "بدء كلية طب الأسنان 2019"
     
     [[params.ar.education.timeline]]
       event = "تخرج 2024"  
 
   [params.ar.contact.location]
-    address = "العبور"
+    address = "vasilia clinic فى العبور بالقاهرة"
 
   [params.ar.ui]
     [params.ar.ui.nav]
