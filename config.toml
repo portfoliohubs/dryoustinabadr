@@ -7,14 +7,14 @@ defaultContentLanguage = "en"
   # Hero Section
   [params.hero]
     name = "Dr. Youstina badr"
-    tagline = "internship Dentist"
+    tagline = "General Dentist | Vasilia Clinic"
     graduation = "Graduated 2024 - Faculty of Dentistry - ERU"
     profile_image = "https://github.com/user-attachments/assets/7df38bd8-b6d7-42e2-9535-e21f41043a97"
     profile_image_alt = "Profile photo of Youstina badr"
     
     [params.hero.current_position]
-      role = "internship Dentist"
-      clinic = "العبور"
+      role = "Dentist"
+      clinic = "vasilia clinic"
 
   [params.seo]
     description = "Professional dental portfolio"
@@ -231,20 +231,20 @@ defaultContentLanguage = "en"
     [params.contact.location]
       enabled = true
       address = "العبور"
-      latitude = "30.585070727964393"
-      longitude = "31.487296675825437"
+      latitude = "30.222718"
+      longitude = "31.472719"
 
 # Arabic Translations
 [params.ar]
   [params.ar.hero]
     name = "د. يوستينا بدر"
-    tagline = "طبيبة امتياز"
+    tagline = "طبيبة"
     graduation = "تخرج 2024 - كلية طب الأسنان"
     profile_image_alt = "صورة الملف الشخصي ليوستينا بدر"
     
     [params.ar.hero.current_position]
-      role = "طبيب امتياز"
-      clinic = "العبور"
+      role = "طبيبة اسنان"
+      clinic = "عيادة vasilia"
   
 [params.ar.skills]
     clinical = [
